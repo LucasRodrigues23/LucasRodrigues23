@@ -1,5 +1,5 @@
 Sejam bem vindos!
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=lucasrodrigues23&theme=midnight-purple&show_icons=true)
+![Lucas Rodrigues Status](https://github-readme-stats.vercel.app/api?username=lucasrodrigues23&theme=midnight-purple&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrodrigues23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Rodrigues stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasrodrigues23)]
