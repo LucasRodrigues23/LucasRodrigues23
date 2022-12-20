@@ -6,7 +6,7 @@
 ![Lucas Rodrigues Status](https://github-readme-stats.vercel.app/api?username=lucasrodrigues23&theme=midnight-purple&show_icons=true)
 
 
- <h3>Técnologias<h3>
+ <h3>Técnologias que estudo/uso:<h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,figma" />
   </a>
