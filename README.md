@@ -7,7 +7,7 @@
 
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasrodrigues23&theme=midnight-purple"/> </a>
 
- <h3>Técnologias que estudo/uso:<h3>
+ <h3>Técnologias que estudo/utilizo:<h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,figma" />
   </a>
