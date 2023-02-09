@@ -9,5 +9,5 @@
 
  <h3>Técnologias que estudo/utilizo:<h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,figma,nodejs,postgres" />
   </a>
