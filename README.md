@@ -8,6 +8,8 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+![snake gif](https://github.com/lucasrodrigues23/lucasrodrigues23/blob/output/github-contribution-grid-snake.gif)
+
  <h3>Técnologias que estudo/utilizo:<h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,figma,nodejs,postgres" />
