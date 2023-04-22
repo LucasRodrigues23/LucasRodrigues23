@@ -20,4 +20,4 @@
 ![snake gif](https://github.com/lucasrodrigues23/lucasrodrigues23/blob/output/github-contribution-grid-snake.svg)
 
  <h3>Técnologias que estudo/utilizo:<h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,react,redux,sass,ts,git,github,figma,nodejs,postgres,express,jest,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,react,redux,sass,ts,git,github,figma,nodejs,postgres,express,jest,python,django" />
