@@ -12,12 +12,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-</picture>
- 
-![snake gif](https://github.com/lucasrodrigues23/lucasrodrigues23/blob/output/github-contribution-grid-snake.svg)
+
 
  <h3>Técnologias que estudo/utilizo:<h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,vscode,react,redux,sass,ts,git,github,figma,nodejs,postgres,express,jest,python,django" />
