@@ -3,7 +3,7 @@
  <p>FrontEnd:</p>
  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,redux,sass,ts,figma" />
  <p>BackEnd:</p>
- <img src="https://skillicons.dev/icons?i=nodejs,postgres,express,ts,nest,prisma,jest,python,django" />
+ <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,express,nest,prisma,jest,python,django" />
  <p>Segue lá, é onde tem mais informações sobre mim e onde posto meus avanços nessa jornada:</p> 
 <a href="https://www.linkedin.com/in/lucas-rodrigues-da-silva-168274201/">
  <img src="https://skillicons.dev/icons?i=linkedin">
